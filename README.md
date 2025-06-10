@@ -1,7 +1,9 @@
 Data Analysis & Visualization Playground
+
 This repository serves as a personal playground and showcase for various data analysis and visualization projects. Here, I explore different datasets, apply various analytical techniques, and create compelling visualizations to uncover insights and communicate findings.
 
 About This Repository
+
 This repository isn't focused on one specific domain or dataset; rather, it's a collection of independent data analysis tasks. Each project within this repo will tackle a unique dataset, ranging from publicly available sources to personal data collections.
 
 My goal is to:
